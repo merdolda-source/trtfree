@@ -1,0 +1,46 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="TRT HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="TRT GENEL",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="TRT GENEL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="TRT GENEL",TRT BELGESEL
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="TRT GENEL",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="TRT ÇOCUK",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png" group-title="TRT ÇOCUK",TRT DİYANET ÇOCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png" group-title="TRT ÇOCUK",TRT EBA TV
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="TRT SPOR",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="TRT SPOR",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="TRT ULUSLARARASI",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="TRT ULUSLARARASI",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="TRT ULUSLARARASI",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="TRT ULUSLARARASI",TRT KURDİ
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png" group-title="TRT ULUSLARARASI",TRT ARABİYA
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
